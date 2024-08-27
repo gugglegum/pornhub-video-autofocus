@@ -23,7 +23,7 @@
     const videoWrapper = document.querySelector('.mgp_videoWrapper');
 
     if (videoWrapper) {
-        const playerDiv = videoWrapper.closest('div[id^="playerDiv_"]');
+        const playerDiv = videoWrapper.parentElement;
         if (playerDiv) {
             playerDiv.focus();
         }
