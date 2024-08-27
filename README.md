@@ -5,7 +5,7 @@ For some misunderstanding, PornHub does not automatically add focus to the video
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) browser extension (or a similar userscript manager) if you haven't already.
-2. Click [here]([https://raw.githubusercontent.com/gugglegum/pornhub-hide-mouse-cursor/master/pornhub-hide-mouse-cursor.user.js](https://raw.githubusercontent.com/gugglegum/pornhub-video-autofocus/master/pornhub-video-autofocus.user.js)) to install the script.
+2. Click [here](https://raw.githubusercontent.com/gugglegum/pornhub-video-autofocus/master/pornhub-video-autofocus.user.js) to install the script.
 
 ## Usage
 
