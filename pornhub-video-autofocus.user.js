@@ -7,6 +7,7 @@
 // @description:ru Автоматически делает активный видеоплеер на PornHub так, что вы сразу можете использовать горячие клавиши после открытия страницы
 // @author       Paul Melekhov
 // @match        *://*.pornhub.com/view_video.php?viewkey=*
+// @match        *://*.youporn.com/watch/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=pornhub.com
 // @grant        none
 // @license MIT
