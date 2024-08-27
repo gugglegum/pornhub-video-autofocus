@@ -10,3 +10,5 @@ For some misunderstanding, PornHub does not automatically add focus to the video
 ## Usage
 
 The script will automatically focus video player on page load.
+
+This script on [Greasy Fork](https://greasyfork.org/ru/scripts/505361-pornhub-video-autofocus).
